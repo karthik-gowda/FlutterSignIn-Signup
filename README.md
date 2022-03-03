@@ -4,6 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
+This project has sign-in, sign-up and dashboard components 
+
+Email me to get the backend code using Mongodb and nodeJS
+
+Email : karthikbt22@gmail.com
+
 Step 1: Run ```flutter clean```
 
 Step 2: Run ```flutter pub get```
