@@ -4,6 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
+Step 1: Run ```flutter clean```
+
+Step 2: Run ```flutter pub get```
+
+to get started with the project
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
